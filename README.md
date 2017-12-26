@@ -9,7 +9,7 @@ document.currentScript polify to IE6-11 Chrome/Firefox/Safari/Opera……
 
 ## How To Use
 
-1. git clone https://github.com/iamzhaobo/DecryptJS.git;
+1. git clone https://github.com/iamzhaobo/Polify-currentScript.git;
 
 2. 推荐使用polify-currentScript.js，拷贝整段代码到你需要用到的地方；
 
